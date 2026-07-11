@@ -48,4 +48,4 @@ Simply the  project can be  built to provide a structured learning path for mast
 ![Screenshot description](path/to/screenshot.png)
 
 ## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](https://sturdy-giggle-5vg7v9rxxwwr24xxr-3000.app.github.dev/)
